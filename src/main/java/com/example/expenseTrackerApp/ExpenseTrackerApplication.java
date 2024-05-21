@@ -1,4 +1,4 @@
-package com.glzd.expenseTrackerApp;
+package com.example.expenseTrackerApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
